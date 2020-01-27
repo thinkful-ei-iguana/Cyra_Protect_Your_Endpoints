@@ -37,5 +37,17 @@
     "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
     "Joshua Reade Harris <jharris@thinkful.com>"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-iguana/Wendy-Thingful-Server.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-iguana/Wendy-Thingful-Server/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-iguana/Wendy-Thingful-Server#readme"
 }
